@@ -1,0 +1,13 @@
+.thumbnail > img {
+  height: 500px;
+}
+h1 {
+  font-size:150px;
+  text-align: center;
+}
+
+button {
+  height: 50px;
+  width: 100px;
+  margin: -20px 130px;
+}
